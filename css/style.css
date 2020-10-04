@@ -23,6 +23,6 @@ body {
 
 @media (max-width: 991px) {
     .card-color {
-        width: 100% !important;
+        width: 90% !important;
     }
 }
